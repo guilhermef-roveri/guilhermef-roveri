@@ -10,7 +10,7 @@ Bem vindo ao meu github!
 <div align="center">
   <h3>Sobre mim :</h3>
   
-Meu nome é Guilherme Roveri e sou de São Paulo, Brasi.
+Meu nome é Guilherme Roveri e sou de São Paulo, Brasil.
 
 Estudei Análise e desenvolvimento de Sistemas no Senai e estou cursando Ciências da Computação na SPTech.
 </div>
